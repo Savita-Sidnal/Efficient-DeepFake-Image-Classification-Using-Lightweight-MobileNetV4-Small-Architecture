@@ -1,0 +1,1 @@
+# Efficient-DeepFake-Image-Classification-Using-Lightweight-MobileNetV4-Small-Architecture
