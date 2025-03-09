@@ -10,9 +10,11 @@ The model is trained on a dataset containing real and fake images and achieves *
 ## Features  
 ✅ **Lightweight Model** - Uses MobileNetV4-Small for efficient and fast classification.  
 ✅ **High Accuracy** - Achieves **89.78% accuracy** on the OpenForensics dataset.  
-✅ **Preprocessing Pipeline** - Includes:  
+✅ **Preprocessing Pipeline** 
+    Includes:  
   - Image resizing  
   - Normalization  
   - Augmentation for better generalization  
+
 ✅ **Robust Training** - Optimized with **Adam optimizer** and **cross-entropy loss function**.  
 ✅ **Efficient Deployment** - Suitable for **mobile and edge devices**.  
