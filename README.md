@@ -18,8 +18,7 @@ The model is trained on a dataset containing real and fake images and achieves *
 
 ✅ **Robust Training** - Optimized with **Adam optimizer** and **cross-entropy loss function**.  
 ✅ **Efficient Deployment** - Suitable for **mobile and edge devices**.  
-
-### 📌 Data set Link  
+✅ **Data set Link**  
 [https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data]  
 
 ## 📄 Publication  
