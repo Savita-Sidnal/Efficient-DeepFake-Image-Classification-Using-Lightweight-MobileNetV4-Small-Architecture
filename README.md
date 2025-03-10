@@ -18,3 +18,16 @@ The model is trained on a dataset containing real and fake images and achieves *
 
 ✅ **Robust Training** - Optimized with **Adam optimizer** and **cross-entropy loss function**.  
 ✅ **Efficient Deployment** - Suitable for **mobile and edge devices**.  
+
+Publication
+If you are interested in learning more about this work, refer to our published paper:
+
+Efficient DeepFake Image Classification Using Lightweight MobileNetV4-Small Architecture
+📌 Authors: Savita Sidnal, Shradha Kekare, Soujanya Menasagi, Vaishnavi Tharakar
+📌 Affiliation: School of Computer Science and Engineering, KLE Technological University, Hubli, Karnataka, India
+📌 Keywords: Deep Learning, Deepfake Detection, Lightweight Neural Networks, MobileNetV4-Small, Synthetic Media
+📌 Abstract:
+The rise of Deep Learning (DL) has enabled the creation of hyper-realistic synthetic images via Generative Adversarial Networks (GANs). While these images showcase the potential of DL, they also present serious risks, including misinformation and cybersecurity threats. This paper introduces an efficient deepfake detection framework using MobileNetV4-Small, a lightweight DL model optimized for mobile and edge devices. The approach leverages advanced preprocessing techniques to improve classification accuracy and achieves an 89.78% test accuracy on the OpenForensics dataset. Our findings highlight the importance of lightweight architectures in combating the challenges posed by synthetic media.
+
+📌 Paper Link: [Provide DOI/Link]
+
